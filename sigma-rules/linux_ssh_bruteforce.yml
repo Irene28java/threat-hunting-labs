@@ -1,0 +1,16 @@
+title: Linux SSH Brute Force Attempt
+id: 1f3d9a22-ssh-bruteforce
+status: experimental
+description: Detects multiple failed SSH authentication attempts from the same source.
+author: Irene
+logsource:
+  product: linux
+  service: sshd
+detection:
+  selection:
+    message|contains: "Failed password"
+  condition: selection | count() by src_ip > 5
+level: high
+tags:
+  - attack.initial_access
+  - attack.t1110

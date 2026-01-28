@@ -1,0 +1,17 @@
+title: Successful SSH Login After Failed Attempts
+id: 2b7e4a11-ssh-compromise
+status: experimental
+description: Detects successful SSH authentication after multiple failed attempts.
+author: Irene
+logsource:
+  product: linux
+  service: sshd
+detection:
+  failed:
+    message|contains: "Failed password"
+  success:
+    message|contains: "Accepted password"
+  condition: failed followed_by success within 10m
+level: high
+tags:
+  - attack.initial_access

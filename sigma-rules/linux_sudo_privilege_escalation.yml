@@ -1,0 +1,18 @@
+title: Linux Privilege Escalation via Sudo
+id: 9c41d8aa-sudo-privesc
+status: experimental
+description: Detects passwordless sudo execution of shell binaries.
+author: Irene
+logsource:
+  product: linux
+  service: sudo
+detection:
+  selection:
+    message|contains:
+      - "COMMAND=/usr/bin/bash"
+      - "NOPASSWD"
+  condition: selection
+level: critical
+tags:
+  - attack.privilege_escalation
+  - attack.t1548.003
