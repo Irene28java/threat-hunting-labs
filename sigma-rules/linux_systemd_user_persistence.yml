@@ -1,0 +1,25 @@
+title: Linux Systemd User Service Persistence
+id: 9f3c6e21-7c4e-4a5f-bc6b-07a6f2c70707
+status: experimental
+description: >
+  Detects persistence via systemd user services created in
+  ~/.config/systemd/user which can be abused for stealthy
+  user-level persistence.
+author: Irene
+date: 2026/01/29
+references:
+  - https://attack.mitre.org/techniques/T1543/002/
+tags:
+  - attack.persistence
+  - attack.t1543.002
+logsource:
+  product: linux
+  service: systemd
+detection:
+  selection_user_service_path:
+    UnitFilePath|contains:
+      - "/.config/systemd/user/"
+  condition: selection_user_service_path
+falsepositives:
+  - Legitimate user-created systemd services
+level: medium

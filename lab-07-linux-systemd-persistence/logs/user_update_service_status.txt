@@ -1,0 +1,8 @@
+○ user-update.service - User Update Service
+     Loaded: loaded (/home/bob/.config/systemd/user/user-update.service; enabled; vendor preset: enabled)
+     Active: inactive (dead) since Thu 2026-01-29 16:06:51 CET; 13ms ago
+    Process: 11671 ExecStart=/home/bob/.local/bin/user-update.sh (code=exited, status=0/SUCCESS)
+   Main PID: 11671 (code=exited, status=0/SUCCESS)
+        CPU: 5ms
+
+Jan 29 16:06:51 LAPTOP-DT44HS44 systemd[11664]: Started User Update Service.

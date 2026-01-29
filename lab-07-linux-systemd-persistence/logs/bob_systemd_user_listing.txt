@@ -1,0 +1,5 @@
+total 16
+drwxrwxr-x 3 bob bob 4096 Jan 29 16:03 .
+drwxrwxr-x 3 bob bob 4096 Jan 29 15:55 ..
+drwxr-xr-x 2 bob bob 4096 Jan 29 16:03 default.target.wants
+-rw-rw-r-- 1 bob bob  131 Jan 29 16:03 user-update.service
