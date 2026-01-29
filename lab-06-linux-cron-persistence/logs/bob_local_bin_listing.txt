@@ -1,0 +1,4 @@
+total 12
+drwxrwxr-x 2 bob bob 4096 Jan 29 14:30 .
+drwxrwxr-x 4 bob bob 4096 Jan 29 14:28 ..
+-rwxrwxr-x 1 bob bob   83 Jan 29 14:30 sysupdate.sh

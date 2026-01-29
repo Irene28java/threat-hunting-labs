@@ -1,0 +1,8 @@
+  File: /home/bob/.local/bin/sysupdate.sh
+  Size: 83        	Blocks: 8          IO Block: 4096   regular file
+Device: 830h/2096d	Inode: 121166      Links: 1
+Access: (0775/-rwxrwxr-x)  Uid: ( 1002/     bob)   Gid: ( 1002/     bob)
+Access: 2026-01-29 14:38:01.514278007 +0100
+Modify: 2026-01-29 14:30:42.385820252 +0100
+Change: 2026-01-29 14:30:46.961819711 +0100
+ Birth: 2026-01-29 14:30:42.385820252 +0100

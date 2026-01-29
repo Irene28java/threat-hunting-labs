@@ -1,0 +1,16 @@
+title: Linux Cron Job Persistence - User Level
+id: 7b1e3f21-cron-persistence
+status: experimental
+logsource:
+  product: linux
+  service: cron
+detection:
+  selection:
+    Message|contains:
+      - "CRON"
+      - "bob"
+  condition: selection
+level: medium
+tags:
+  - attack.persistence
+  - attack.t1053.003
