@@ -1,0 +1,18 @@
+title: Linux SSH Lateral Movement via Authorized Keys
+id: 9d3b2b1e-ssh-lateral-linux
+status: experimental
+description: Detects possible lateral movement via SSH between local users
+author: Irene
+date: 2026-01-29
+logsource:
+  product: linux
+  service: auth
+detection:
+  selection:
+    process|contains: sshd
+    message|contains: Accepted publickey
+  condition: selection
+level: medium
+tags:
+  - attack.lateral_movement
+  - attack.t1021.004

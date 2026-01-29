@@ -1,0 +1,29 @@
+Jan 29 13:23:03 LAPTOP-DT44HS44 useradd[10623]: new group: name=alice, GID=1001
+Jan 29 13:23:03 LAPTOP-DT44HS44 useradd[10623]: new user: name=alice, UID=1001, GID=1001, home=/home/alice, shell=/bin/sh, from=/dev/pts/0
+Jan 29 13:23:12 LAPTOP-DT44HS44 useradd[10631]: new group: name=bob, GID=1002
+Jan 29 13:23:12 LAPTOP-DT44HS44 useradd[10631]: new user: name=bob, UID=1002, GID=1002, home=/home/bob, shell=/bin/sh, from=/dev/pts/0
+Jan 29 13:24:13 LAPTOP-DT44HS44 passwd[10641]: pam_unix(passwd:chauthtok): password changed for alice
+Jan 29 13:24:32 LAPTOP-DT44HS44 passwd[10646]: pam_unix(passwd:chauthtok): password changed for bob
+Jan 29 13:25:33 LAPTOP-DT44HS44 su: (to alice) root on pts/0
+Jan 29 13:25:33 LAPTOP-DT44HS44 su: pam_unix(su:session): session opened for user alice(uid=1001) by (uid=0)
+Jan 29 13:25:33 LAPTOP-DT44HS44 systemd-logind[197]: New session c1 of user alice.
+Jan 29 13:25:33 LAPTOP-DT44HS44 systemd: pam_unix(systemd-user:session): session opened for user alice(uid=1001) by (uid=0)
+Jan 29 13:27:42 LAPTOP-DT44HS44 su: pam_unix(su:session): session closed for user alice
+Jan 29 13:27:42 LAPTOP-DT44HS44 systemd-logind[197]: Session c1 logged out. Waiting for processes to exit.
+Jan 29 13:27:42 LAPTOP-DT44HS44 systemd-logind[197]: Removed session c1.
+Jan 29 13:34:14 LAPTOP-DT44HS44 su: (to alice) root on pts/0
+Jan 29 13:34:14 LAPTOP-DT44HS44 su: pam_unix(su-l:session): session opened for user alice(uid=1001) by (uid=0)
+Jan 29 13:34:14 LAPTOP-DT44HS44 systemd-logind[197]: New session c2 of user alice.
+Jan 29 13:34:14 LAPTOP-DT44HS44 systemd: pam_unix(systemd-user:session): session opened for user alice(uid=1001) by (uid=0)
+Jan 29 13:35:35 LAPTOP-DT44HS44 sshd[10791]: Accepted publickey for bob from 127.0.0.1 port 41684 ssh2: ED25519 SHA256:EidLBjQ9abusPrX7CdIINT5FQ7GNWubOJJpuLX3ZCg0
+Jan 29 13:35:35 LAPTOP-DT44HS44 sshd[10791]: pam_unix(sshd:session): session opened for user bob(uid=1002) by (uid=0)
+Jan 29 13:35:35 LAPTOP-DT44HS44 systemd-logind[197]: New session 32 of user bob.
+Jan 29 13:35:35 LAPTOP-DT44HS44 systemd: pam_unix(systemd-user:session): session opened for user bob(uid=1002) by (uid=0)
+Jan 29 13:39:16 LAPTOP-DT44HS44 sshd[10850]: Received disconnect from 127.0.0.1 port 41684:11: disconnected by user
+Jan 29 13:39:16 LAPTOP-DT44HS44 sshd[10850]: Disconnected from user bob 127.0.0.1 port 41684
+Jan 29 13:39:16 LAPTOP-DT44HS44 sshd[10791]: pam_unix(sshd:session): session closed for user bob
+Jan 29 13:39:16 LAPTOP-DT44HS44 systemd-logind[197]: Session 32 logged out. Waiting for processes to exit.
+Jan 29 13:39:16 LAPTOP-DT44HS44 systemd-logind[197]: Removed session 32.
+Jan 29 13:40:35 LAPTOP-DT44HS44 su: pam_unix(su-l:session): session closed for user alice
+Jan 29 13:40:35 LAPTOP-DT44HS44 systemd-logind[197]: Session c2 logged out. Waiting for processes to exit.
+Jan 29 13:40:35 LAPTOP-DT44HS44 systemd-logind[197]: Removed session c2.

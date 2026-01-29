@@ -1,0 +1,8 @@
+  File: /home/bob/.ssh/authorized_keys
+  Size: 103       	Blocks: 8          IO Block: 4096   regular file
+Device: 830h/2096d	Inode: 121109      Links: 1
+Access: (0600/-rw-------)  Uid: ( 1002/     bob)   Gid: ( 1002/     bob)
+Access: 2026-01-29 13:35:35.324727583 +0100
+Modify: 2026-01-29 13:33:19.875836650 +0100
+Change: 2026-01-29 13:33:58.595463058 +0100
+ Birth: 2026-01-29 13:33:19.875836650 +0100

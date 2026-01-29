@@ -1,0 +1,7 @@
+total 24
+drwx------ 2 alice alice 4096 Jan 29 13:35 .
+drwxr-x--- 4 alice alice 4096 Jan 29 13:34 ..
+-rw------- 1 alice alice  411 Jan 29 13:27 id_ed25519
+-rw-r--r-- 1 alice alice  103 Jan 29 13:27 id_ed25519.pub
+-rw------- 1 alice alice  978 Jan 29 13:35 known_hosts
+-rw-r--r-- 1 alice alice  142 Jan 29 13:35 known_hosts.old

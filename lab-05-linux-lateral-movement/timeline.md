@@ -1,0 +1,5 @@
+- T0: Creación de usuarios alice y bob
+- T1: Alice genera un par de claves SSH (ed25519)
+- T2: La clave pública de alice es añadida al authorized_keys de bob
+- T3: Alice se conecta por SSH a bob sin contraseña
+- T4: Movimiento lateral exitoso dentro del mismo host
