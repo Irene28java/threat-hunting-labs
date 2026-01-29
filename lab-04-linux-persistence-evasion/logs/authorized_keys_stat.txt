@@ -1,0 +1,8 @@
+  File: /root/.ssh/authorized_keys
+  Size: 102       	Blocks: 8          IO Block: 4096   regular file
+Device: 830h/2096d	Inode: 121067      Links: 1
+Access: (0600/-rw-------)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2026-01-29 13:12:47.994322527 +0100
+Modify: 2026-01-29 13:11:28.343862019 +0100
+Change: 2026-01-29 13:11:34.761528506 +0100
+ Birth: 2026-01-29 13:11:28.339528686 +0100

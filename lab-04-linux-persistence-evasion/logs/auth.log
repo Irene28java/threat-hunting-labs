@@ -1,0 +1,160 @@
+Jan 20 10:17:01 LAPTOP-DT44HS44 CRON[5251]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jan 20 10:17:01 LAPTOP-DT44HS44 CRON[5251]: pam_unix(cron:session): session closed for user root
+Jan 20 11:17:01 LAPTOP-DT44HS44 CRON[5286]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jan 20 11:17:01 LAPTOP-DT44HS44 CRON[5286]: pam_unix(cron:session): session closed for user root
+Jan 20 12:17:01 LAPTOP-DT44HS44 CRON[5442]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jan 20 12:17:01 LAPTOP-DT44HS44 CRON[5442]: pam_unix(cron:session): session closed for user root
+Jan 20 13:17:01 LAPTOP-DT44HS44 CRON[5705]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jan 20 13:17:01 LAPTOP-DT44HS44 CRON[5705]: pam_unix(cron:session): session closed for user root
+Jan 20 14:17:01 LAPTOP-DT44HS44 CRON[5829]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jan 20 14:17:01 LAPTOP-DT44HS44 CRON[5829]: pam_unix(cron:session): session closed for user root
+Jan 20 15:17:01 LAPTOP-DT44HS44 CRON[5845]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jan 20 15:17:01 LAPTOP-DT44HS44 CRON[5845]: pam_unix(cron:session): session closed for user root
+Jan 20 19:17:01 LAPTOP-DT44HS44 CRON[6236]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jan 20 19:17:01 LAPTOP-DT44HS44 CRON[6236]: pam_unix(cron:session): session closed for user root
+Jan 20 21:17:02 LAPTOP-DT44HS44 CRON[6356]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jan 20 21:17:02 LAPTOP-DT44HS44 CRON[6356]: pam_unix(cron:session): session closed for user root
+Jan 21 09:17:01 LAPTOP-DT44HS44 CRON[6721]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jan 21 09:17:01 LAPTOP-DT44HS44 CRON[6721]: pam_unix(cron:session): session closed for user root
+Jan 21 10:17:01 LAPTOP-DT44HS44 CRON[7353]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jan 21 10:17:01 LAPTOP-DT44HS44 CRON[7353]: pam_unix(cron:session): session closed for user root
+Jan 21 11:17:01 LAPTOP-DT44HS44 CRON[7579]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jan 21 11:17:01 LAPTOP-DT44HS44 CRON[7579]: pam_unix(cron:session): session closed for user root
+Jan 21 12:17:01 LAPTOP-DT44HS44 CRON[7842]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jan 21 12:17:01 LAPTOP-DT44HS44 CRON[7842]: pam_unix(cron:session): session closed for user root
+Jan 21 13:17:01 LAPTOP-DT44HS44 CRON[7887]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jan 21 13:17:01 LAPTOP-DT44HS44 CRON[7887]: pam_unix(cron:session): session closed for user root
+Jan 21 15:17:01 LAPTOP-DT44HS44 CRON[8107]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jan 21 15:17:01 LAPTOP-DT44HS44 CRON[8107]: pam_unix(cron:session): session closed for user root
+Jan 21 16:17:01 LAPTOP-DT44HS44 CRON[8351]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jan 21 16:17:01 LAPTOP-DT44HS44 CRON[8351]: pam_unix(cron:session): session closed for user root
+Jan 22 14:17:00 LAPTOP-DT44HS44 CRON[8827]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jan 22 14:17:00 LAPTOP-DT44HS44 CRON[8827]: pam_unix(cron:session): session closed for user root
+Jan 22 15:17:01 LAPTOP-DT44HS44 CRON[9211]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jan 22 15:17:01 LAPTOP-DT44HS44 CRON[9211]: pam_unix(cron:session): session closed for user root
+Jan 22 16:17:01 LAPTOP-DT44HS44 CRON[9448]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jan 22 16:17:01 LAPTOP-DT44HS44 CRON[9448]: pam_unix(cron:session): session closed for user root
+Jan 23 11:17:01 LAPTOP-DT44HS44 CRON[10259]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jan 23 11:17:01 LAPTOP-DT44HS44 CRON[10259]: pam_unix(cron:session): session closed for user root
+Jan 23 12:17:01 LAPTOP-DT44HS44 CRON[10263]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jan 23 12:17:01 LAPTOP-DT44HS44 CRON[10263]: pam_unix(cron:session): session closed for user root
+Jan 23 13:17:01 LAPTOP-DT44HS44 CRON[10540]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jan 23 13:17:01 LAPTOP-DT44HS44 CRON[10540]: pam_unix(cron:session): session closed for user root
+Jan 23 14:17:01 LAPTOP-DT44HS44 CRON[10779]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jan 23 14:17:01 LAPTOP-DT44HS44 CRON[10779]: pam_unix(cron:session): session closed for user root
+Jan 23 15:17:01 LAPTOP-DT44HS44 CRON[10835]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jan 23 15:17:01 LAPTOP-DT44HS44 CRON[10835]: pam_unix(cron:session): session closed for user root
+Jan 23 20:17:01 LAPTOP-DT44HS44 CRON[10919]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jan 23 20:17:01 LAPTOP-DT44HS44 CRON[10919]: pam_unix(cron:session): session closed for user root
+Jan 23 21:17:01 LAPTOP-DT44HS44 CRON[10937]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jan 23 21:17:01 LAPTOP-DT44HS44 CRON[10937]: pam_unix(cron:session): session closed for user root
+Jan 26 11:09:34 LAPTOP-DT44HS44 systemd-logind[212]: New seat seat0.
+Jan 26 11:09:39 LAPTOP-DT44HS44 login[358]: pam_unix(login:session): session opened for user root(uid=0) by (uid=0)
+Jan 26 11:09:39 LAPTOP-DT44HS44 systemd-logind[212]: New session 1 of user root.
+Jan 26 11:09:39 LAPTOP-DT44HS44 systemd: pam_unix(systemd-user:session): session opened for user root(uid=0) by (uid=0)
+Jan 26 11:09:40 LAPTOP-DT44HS44 login[562]: ROOT LOGIN  on '/dev/pts/1'
+Jan 26 13:17:01 LAPTOP-DT44HS44 CRON[1377]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jan 26 13:17:01 LAPTOP-DT44HS44 CRON[1377]: pam_unix(cron:session): session closed for user root
+Jan 26 15:17:01 LAPTOP-DT44HS44 CRON[1544]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jan 26 15:17:01 LAPTOP-DT44HS44 CRON[1544]: pam_unix(cron:session): session closed for user root
+Jan 26 16:08:22 LAPTOP-DT44HS44 systemd-logind[197]: New seat seat0.
+Jan 26 16:08:26 LAPTOP-DT44HS44 login[608]: pam_unix(login:session): session opened for user root(uid=0) by (uid=0)
+Jan 26 16:08:26 LAPTOP-DT44HS44 systemd-logind[197]: New session 1 of user root.
+Jan 26 16:08:26 LAPTOP-DT44HS44 systemd: pam_unix(systemd-user:session): session opened for user root(uid=0) by (uid=0)
+Jan 26 16:08:26 LAPTOP-DT44HS44 login[667]: ROOT LOGIN  on '/dev/pts/1'
+Jan 26 16:17:01 LAPTOP-DT44HS44 CRON[815]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jan 26 16:17:01 LAPTOP-DT44HS44 CRON[815]: pam_unix(cron:session): session closed for user root
+Jan 26 17:17:01 LAPTOP-DT44HS44 CRON[1375]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jan 26 17:17:01 LAPTOP-DT44HS44 CRON[1375]: pam_unix(cron:session): session closed for user root
+Jan 27 09:17:01 LAPTOP-DT44HS44 CRON[1669]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jan 27 09:17:01 LAPTOP-DT44HS44 CRON[1669]: pam_unix(cron:session): session closed for user root
+Jan 27 10:17:00 LAPTOP-DT44HS44 CRON[2629]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jan 27 10:17:00 LAPTOP-DT44HS44 CRON[2629]: pam_unix(cron:session): session closed for user root
+Jan 27 11:17:01 LAPTOP-DT44HS44 CRON[3512]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jan 27 11:17:01 LAPTOP-DT44HS44 CRON[3512]: pam_unix(cron:session): session closed for user root
+Jan 27 12:17:01 LAPTOP-DT44HS44 CRON[4266]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jan 27 12:17:01 LAPTOP-DT44HS44 CRON[4266]: pam_unix(cron:session): session closed for user root
+Jan 27 13:17:38 LAPTOP-DT44HS44 CRON[4639]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jan 27 13:17:38 LAPTOP-DT44HS44 CRON[4639]: pam_unix(cron:session): session closed for user root
+Jan 27 15:17:01 LAPTOP-DT44HS44 CRON[4817]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jan 27 15:17:01 LAPTOP-DT44HS44 CRON[4817]: pam_unix(cron:session): session closed for user root
+Jan 27 16:17:01 LAPTOP-DT44HS44 CRON[5095]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jan 27 16:17:01 LAPTOP-DT44HS44 CRON[5095]: pam_unix(cron:session): session closed for user root
+Jan 28 13:02:56 LAPTOP-DT44HS44 useradd[8285]: new user: name=sshd, UID=110, GID=65534, home=/run/sshd, shell=/usr/sbin/nologin, from=none
+Jan 28 13:02:56 LAPTOP-DT44HS44 usermod[8292]: change user 'sshd' password
+Jan 28 13:02:56 LAPTOP-DT44HS44 chage[8299]: changed password expiry for sshd
+Jan 28 13:02:57 LAPTOP-DT44HS44 sshd[8400]: Server listening on 0.0.0.0 port 22.
+Jan 28 13:02:57 LAPTOP-DT44HS44 sshd[8400]: Server listening on :: port 22.
+Jan 28 13:05:17 LAPTOP-DT44HS44 sshd[8473]: Invalid user fakeuser from 127.0.0.1 port 42826
+Jan 28 13:05:37 LAPTOP-DT44HS44 sshd[8473]: pam_unix(sshd:auth): check pass; user unknown
+Jan 28 13:05:37 LAPTOP-DT44HS44 sshd[8473]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=127.0.0.1 
+Jan 28 13:05:38 LAPTOP-DT44HS44 sshd[8473]: Failed password for invalid user fakeuser from 127.0.0.1 port 42826 ssh2
+Jan 28 13:06:11 LAPTOP-DT44HS44 sshd[8477]: Invalid user fakeuser from 127.0.0.1 port 46596
+Jan 28 13:07:03 LAPTOP-DT44HS44 sshd[8477]: pam_unix(sshd:auth): check pass; user unknown
+Jan 28 13:07:03 LAPTOP-DT44HS44 sshd[8477]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=127.0.0.1 
+Jan 28 13:07:05 LAPTOP-DT44HS44 sshd[8477]: Failed password for invalid user fakeuser from 127.0.0.1 port 46596 ssh2
+Jan 28 13:07:52 LAPTOP-DT44HS44 sshd[8477]: Connection closed by invalid user fakeuser 127.0.0.1 port 46596 [preauth]
+Jan 28 13:17:01 LAPTOP-DT44HS44 CRON[8489]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jan 28 13:17:01 LAPTOP-DT44HS44 CRON[8489]: pam_unix(cron:session): session closed for user root
+Jan 28 14:17:01 LAPTOP-DT44HS44 CRON[8552]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jan 28 14:17:01 LAPTOP-DT44HS44 CRON[8552]: pam_unix(cron:session): session closed for user root
+Jan 28 15:17:01 LAPTOP-DT44HS44 CRON[8691]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jan 28 15:17:01 LAPTOP-DT44HS44 CRON[8691]: pam_unix(cron:session): session closed for user root
+Jan 28 16:17:01 LAPTOP-DT44HS44 CRON[9019]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jan 28 16:17:01 LAPTOP-DT44HS44 CRON[9019]: pam_unix(cron:session): session closed for user root
+Jan 28 16:55:31 LAPTOP-DT44HS44 groupadd[9272]: group added to /etc/group: name=compromised, GID=1000
+Jan 28 16:55:31 LAPTOP-DT44HS44 groupadd[9272]: group added to /etc/gshadow: name=compromised
+Jan 28 16:55:31 LAPTOP-DT44HS44 groupadd[9272]: new group: name=compromised, GID=1000
+Jan 28 16:55:31 LAPTOP-DT44HS44 useradd[9278]: new user: name=compromised, UID=1000, GID=1000, home=/home/compromised, shell=/bin/bash, from=/dev/pts/0
+Jan 28 16:55:45 LAPTOP-DT44HS44 passwd[9289]: pam_unix(passwd:chauthtok): password changed for compromised
+Jan 28 16:57:29 LAPTOP-DT44HS44 chfn[9292]: changed user 'compromised' information
+Jan 28 16:59:03 LAPTOP-DT44HS44 sshd[9316]: Accepted password for compromised from 127.0.0.1 port 58568 ssh2
+Jan 28 16:59:03 LAPTOP-DT44HS44 sshd[9316]: pam_unix(sshd:session): session opened for user compromised(uid=1000) by (uid=0)
+Jan 28 16:59:03 LAPTOP-DT44HS44 systemd-logind[197]: New session 16 of user compromised.
+Jan 28 16:59:03 LAPTOP-DT44HS44 systemd: pam_unix(systemd-user:session): session opened for user compromised(uid=1000) by (uid=0)
+Jan 28 17:03:18 LAPTOP-DT44HS44 sshd[9375]: Received disconnect from 127.0.0.1 port 58568:11: disconnected by user
+Jan 28 17:03:18 LAPTOP-DT44HS44 sshd[9375]: Disconnected from user compromised 127.0.0.1 port 58568
+Jan 28 17:03:18 LAPTOP-DT44HS44 sshd[9316]: pam_unix(sshd:session): session closed for user compromised
+Jan 28 17:03:18 LAPTOP-DT44HS44 systemd-logind[197]: Session 16 logged out. Waiting for processes to exit.
+Jan 28 17:03:18 LAPTOP-DT44HS44 systemd-logind[197]: Removed session 16.
+Jan 28 17:10:14 LAPTOP-DT44HS44 sshd[9444]: Accepted password for compromised from 127.0.0.1 port 54586 ssh2
+Jan 28 17:10:14 LAPTOP-DT44HS44 sshd[9444]: pam_unix(sshd:session): session opened for user compromised(uid=1000) by (uid=0)
+Jan 28 17:10:14 LAPTOP-DT44HS44 systemd-logind[197]: New session 18 of user compromised.
+Jan 28 17:10:14 LAPTOP-DT44HS44 systemd: pam_unix(systemd-user:session): session opened for user compromised(uid=1000) by (uid=0)
+Jan 28 17:12:28 LAPTOP-DT44HS44 sshd[9503]: Received disconnect from 127.0.0.1 port 54586:11: disconnected by user
+Jan 28 17:12:28 LAPTOP-DT44HS44 sshd[9503]: Disconnected from user compromised 127.0.0.1 port 54586
+Jan 28 17:12:28 LAPTOP-DT44HS44 systemd-logind[197]: Session 18 logged out. Waiting for processes to exit.
+Jan 28 17:12:28 LAPTOP-DT44HS44 sshd[9444]: pam_unix(sshd:session): session closed for user compromised
+Jan 28 17:12:28 LAPTOP-DT44HS44 systemd-logind[197]: Removed session 18.
+Jan 28 17:17:01 LAPTOP-DT44HS44 CRON[9553]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jan 28 17:17:01 LAPTOP-DT44HS44 CRON[9553]: pam_unix(cron:session): session closed for user root
+Jan 28 17:40:45 LAPTOP-DT44HS44 sshd[9664]: Accepted password for compromised from 127.0.0.1 port 54782 ssh2
+Jan 28 17:40:45 LAPTOP-DT44HS44 sshd[9664]: pam_unix(sshd:session): session opened for user compromised(uid=1000) by (uid=0)
+Jan 28 17:40:45 LAPTOP-DT44HS44 systemd-logind[197]: New session 21 of user compromised.
+Jan 28 17:40:45 LAPTOP-DT44HS44 systemd: pam_unix(systemd-user:session): session opened for user compromised(uid=1000) by (uid=0)
+Jan 28 17:41:10 LAPTOP-DT44HS44 sudo: compromised : TTY=pts/2 ; PWD=/home/compromised ; USER=root ; COMMAND=/usr/bin/bash
+Jan 28 17:41:10 LAPTOP-DT44HS44 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by compromised(uid=1000)
+Jan 28 17:42:44 LAPTOP-DT44HS44 sudo: pam_unix(sudo:session): session closed for user root
+Jan 28 17:45:13 LAPTOP-DT44HS44 sshd[9721]: Received disconnect from 127.0.0.1 port 54782:11: disconnected by user
+Jan 28 17:45:13 LAPTOP-DT44HS44 sshd[9721]: Disconnected from user compromised 127.0.0.1 port 54782
+Jan 28 17:45:13 LAPTOP-DT44HS44 sshd[9664]: pam_unix(sshd:session): session closed for user compromised
+Jan 28 17:45:13 LAPTOP-DT44HS44 systemd-logind[197]: Session 21 logged out. Waiting for processes to exit.
+Jan 28 17:45:13 LAPTOP-DT44HS44 systemd-logind[197]: Removed session 21.
+Jan 28 18:17:01 LAPTOP-DT44HS44 CRON[9857]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jan 28 18:17:01 LAPTOP-DT44HS44 CRON[9857]: pam_unix(cron:session): session closed for user root
+Jan 28 19:17:01 LAPTOP-DT44HS44 CRON[9878]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jan 28 19:17:01 LAPTOP-DT44HS44 CRON[9878]: pam_unix(cron:session): session closed for user root
+Jan 28 20:17:01 LAPTOP-DT44HS44 CRON[9903]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jan 28 20:17:01 LAPTOP-DT44HS44 CRON[9903]: pam_unix(cron:session): session closed for user root
+Jan 29 10:17:01 LAPTOP-DT44HS44 CRON[10072]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jan 29 10:17:01 LAPTOP-DT44HS44 CRON[10072]: pam_unix(cron:session): session closed for user root
+Jan 29 12:17:01 LAPTOP-DT44HS44 CRON[10224]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jan 29 12:17:01 LAPTOP-DT44HS44 CRON[10224]: pam_unix(cron:session): session closed for user root
+Jan 29 13:12:48 LAPTOP-DT44HS44 sshd[10473]: Accepted publickey for root from 127.0.0.1 port 36072 ssh2: ED25519 SHA256:Gc4j+T7nnOBXdtpxo5E0Cu/vKlSzsPlNJznGRp+uMWM
+Jan 29 13:12:48 LAPTOP-DT44HS44 sshd[10473]: pam_unix(sshd:session): session opened for user root(uid=0) by (uid=0)
+Jan 29 13:12:48 LAPTOP-DT44HS44 systemd-logind[197]: New session 28 of user root.
+Jan 29 13:14:34 LAPTOP-DT44HS44 sshd[10473]: Received disconnect from 127.0.0.1 port 36072:11: disconnected by user
+Jan 29 13:14:34 LAPTOP-DT44HS44 sshd[10473]: Disconnected from user root 127.0.0.1 port 36072
+Jan 29 13:14:34 LAPTOP-DT44HS44 sshd[10473]: pam_unix(sshd:session): session closed for user root
+Jan 29 13:14:34 LAPTOP-DT44HS44 systemd-logind[197]: Session 28 logged out. Waiting for processes to exit.
+Jan 29 13:14:34 LAPTOP-DT44HS44 systemd-logind[197]: Removed session 28.

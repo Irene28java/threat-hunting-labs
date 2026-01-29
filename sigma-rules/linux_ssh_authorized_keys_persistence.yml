@@ -1,0 +1,23 @@
+title: Linux SSH Authorized Keys Persistence
+id: 4e6a8c1b-ssh-authorized-keys
+status: experimental
+description: Detects modification of SSH authorized_keys files which may indicate persistence.
+author: Irene
+date: 2026-01-29
+references:
+  - https://attack.mitre.org/techniques/T1098/
+tags:
+  - attack.persistence
+  - attack.t1098
+  - attack.t1021_004
+logsource:
+  product: linux
+  category: file_event
+detection:
+  selection:
+    TargetFilename|endswith:
+      - authorized_keys
+  condition: selection
+falsepositives:
+  - Legitimate administrative SSH key changes
+level: medium

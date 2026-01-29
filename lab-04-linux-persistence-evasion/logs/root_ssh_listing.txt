@@ -1,0 +1,8 @@
+total 28
+drwx------  2 root root 4096 Jan 29 13:11 .
+drwx------ 11 root root 4096 Jan 28 12:54 ..
+-rw-------  1 root root  102 Jan 29 13:11 authorized_keys
+-rw-------  1 root root  411 Dec 19 14:46 id_ed25519
+-rw-r--r--  1 root root  103 Dec 19 14:46 id_ed25519.pub
+-rw-------  1 root root 1956 Jan 28 16:59 known_hosts
+-rw-------  1 root root 1120 Jan 28 13:05 known_hosts.old
