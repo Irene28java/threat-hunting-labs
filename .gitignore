@@ -1,0 +1,9 @@
+# Sigma repo (external)
+sigma/
+
+# Generated outputs
+output_rule*.yml
+
+# Python / tools
+__pycache__/
+*.pyc
